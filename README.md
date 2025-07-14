@@ -1,6 +1,6 @@
 # About Felix 
-Analytical and results-driven, possessing advanced degrees in mathematics, Business Analytics, Statistics and Computer Science, as well as professional 
-certifications in Risk Analysis. A prolific data science enthusiast with in- depth knowledge of Data Analytics, Machine Learning and Artificial Intelligence 
-(AI) Algorithms. Over 5 years of on-the-job experience, he is trained in statistical modeling, quantitative techniques with implementation using Scripting 
-Languages;Python, R and SAS. A flexible, motivated and quick learner who excels at problem-solving, Decision making, project management, and 
-delivering data-driven insight. Seeking a role where his expertise could be beneficial in driving success for the organization.
+As a versatile professional with strong expertise in Mathematics, Statistics, Computer Science, and Business Analytics, I specialize in transforming complex data into actionable insights that drive business decision-making and manage financial risks. My background includes advanced predictive modeling, quantitative analysis, and data visualization using tools such as Python, R, SQL, and Power BI.
+
+I've had the opportunity to lead a pioneering Mathematics and Statistics Research Laboratory at one of Nigeria's leading universities, where I developed innovative models and applied advanced analytics to solve complex research and business problems. My academic journey, which spans multiple degrees, has honed my ability to connect data science with business operations to deliver real-world solutions.
+
+I'm passionate about using data-driven insights to drive strategic growth, improve operational efficiency, and minimize risks. Currently, I'm looking for data science, business analytics, quantitative risk analysis, and data-driven managerial roles that challenge my skills and allow me to contribute to forward-thinking teams. I thrive in environments that foster innovation, collaboration, and continuous learning.
